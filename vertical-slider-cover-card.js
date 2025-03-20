@@ -73,7 +73,7 @@ class VerticalSliderCoverCard extends LitElement {
         
           <div class="side" style="${this._panelSize(panelType)};--show-sidebar:${this._showFlex(showSidebar)};--sideColor-1:${sideColor1};--sideColor-2:${sideColor2};">
             <div class="header">
-              
+              COVER
             </div>
             <div class="center">
               <div class="icon">
