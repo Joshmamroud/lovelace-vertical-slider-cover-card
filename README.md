@@ -8,7 +8,7 @@
 
 ## SCREENSHOTS
 
-Panel View screenshot
+Panel View screenshots
 
 ![panel card screenshot](https://github.com/konnectedvn/lovelace-vertical-slider-cover-card/blob/master/src/konnected_vn_Vertical-Slider-Cover-Card-Panel-Mode-7-2-2020.png?raw=true "Desktop screenshot")
 
